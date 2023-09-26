@@ -1,7 +1,8 @@
-"""
-# My first app
-Here's our first attempt at using data to create a table:
-"""
+'''
+# This is the document title
+
+This is some _markdown_.
+'''
 
 import streamlit as st
 import pandas as pd
